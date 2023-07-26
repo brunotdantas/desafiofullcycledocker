@@ -13,4 +13,3 @@ Usando o docker compose preparar uma estrutura contendo as tecnologias:
 - [ ] Mysql - Banco de dados com uma tabela populada com nomes
 - [ ] NodeJS - Recebendo uma requisição get e buscando no banco os valores 
 - [ ] NGINX - Recebendo a requisição e direcionando paro nodeJs 
- 
